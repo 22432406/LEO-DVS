@@ -1,2 +1,20 @@
-Hola soy capi feliz
-cambio
+npm install
+//son solo variables:
+int paseos = 2;
+paseos = 76;
+paseos = 78;
+float temperatura = 43.2;
+string nombre = "Capi";
+bool fuiste_a_comprar = false;
+fuiste_a_comprar = true;
+//variables:
+print(paseos);
+print(nombre);
+print("Hola buenos dias");
+/*comentario largo
+que y porque
+se llama capi
+capi*/
+
+//int dinero = 50;
+print(dinero);
